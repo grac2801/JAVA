@@ -1,4 +1,4 @@
-package u6_L3;
+package u6_l3_Array_of_strings;
 
 import java.util.Scanner;
 
